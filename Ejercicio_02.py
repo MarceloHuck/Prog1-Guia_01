@@ -1,0 +1,5 @@
+float1 = float(input('Ingresar la primer nota: '))
+float2 = float(input('Ingresar la segunda nota: '))
+float3 = float(input('Ingresar la tercer nota: '))
+promedio = str((float1 +  float2 + float3) / 3)
+print('Promedio: ' + promedio)
